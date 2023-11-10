@@ -1,6 +1,6 @@
 # MatchMaker: A Deep Learning Framework for Drug Synergy Prediction
 ---
-#I used it to my courese final project homework,thanks for the authors' share
+I used it to my course 统计学习(Statistical Learning) as final project homework,thanks for the authors' share
 ## Abstract
 Drug combination therapies have been a viable strategy for the treatment of complex diseases such as cancer due to increased efficacy and reduced side effects. However, experimentally validating all possible combinations for synergistic interaction even with highthroughout screens is intractable due to vast combinatorial search space. Computational techniques can reduce the number of combinations to be evaluated experimentally by prioritizing promising candidates. We present MatchMaker that predicts drug synergy scores using drug chemical structure information and gene expression profiles of cell lines in a deep learning framework. For the first time, our model utilizes the largest known drug combination dataset to date, DrugComb. We compare the performance of MatchMaker with the state-of-the-art models and observe up to ∼ 20% correlation and ∼ 40% mean squared error (MSE) improvements over the next best method. We investigate the cell types and drug pairs that are relatively harder to predict and present novel candidate pairs.
 
